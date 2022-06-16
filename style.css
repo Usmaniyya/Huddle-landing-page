@@ -159,6 +159,11 @@ nav {
     width: 300px;
 }
 
+.section-two img {
+    margin-right: 5rem;
+    width: 300px;
+}
+
 .section-four {
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
