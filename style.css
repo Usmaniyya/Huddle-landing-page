@@ -278,6 +278,9 @@ footer .socials ion-icon {
     .hero-btn {
         margin-bottom: 1.5rem;
     }
+    .section-image {
+        margin-left: 0;
+    }
     .section-text {
         margin-top: 2rem;
     }
